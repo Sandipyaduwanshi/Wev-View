@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028912044882",
+    "project_id": "wev-view",
+    "storage_bucket": "wev-view.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028912044882:android:2941482ed7357de4f9f88b",
+        "android_client_info": {
+          "package_name": "com.example.wevview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028912044882-f0chs8492a3qmkh37t9v22lsdt4p3b10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wevview",
+            "certificate_hash": "d15a4f6e52eb633fdb2bbb496c131b2338bca529"
+          }
+        },
+        {
+          "client_id": "1028912044882-rp9rk9lisfml56buo8gjf745ih2mm0mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7pz8j2iDMTflhiA_E3CRANCyezPEUMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028912044882-rp9rk9lisfml56buo8gjf745ih2mm0mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
